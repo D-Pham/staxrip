@@ -4,4 +4,4 @@ StaxRip is a video encoding app for Windows with a unrivaled feature set and usa
 
 ## Documentation
 
-https://www.staxrip.readthedocs.io
+https://staxrip.readthedocs.io
